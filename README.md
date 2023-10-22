@@ -27,6 +27,10 @@ This project is a web application that combines React, Three.js, and GeoJSON dat
 
 5. Open your web browser and visit `http://localhost:5173/` to view the project.
 
+
+![](https://github.com/daemoNick/R3F-globe-with-geojson/blob/main/src/assets/Globe-gif.gif)
+
+
 ## Project Structure
 The project contains the following files:
 
